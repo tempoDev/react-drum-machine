@@ -1,8 +1,4 @@
 # React + Vite
+Proyecto realizado con REACT para simular una batería mediante la utilización de el hook de eventos useEffect y el hook de estados useState.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+La aplicación se puede previsualizar en el siguiente enlace: https://tempodev.github.io/react-drum-machine/
